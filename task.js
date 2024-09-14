@@ -136,6 +136,5 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
-    // Initialize
     displayQuestion();
 });
